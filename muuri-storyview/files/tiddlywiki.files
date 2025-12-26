@@ -1,0 +1,12 @@
+{
+	"tiddlers": [
+		{
+			"file": "library/muuri.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/BTC/muuri-storyview/lib/muuri.js",
+				"module-type": "library"
+			}
+		}
+	]
+}
