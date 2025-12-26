@@ -1,0 +1,12 @@
+title: $:/plugins/BTC/muuri-storyview/PageTemplates/MuuriDraggingContainer
+tags: $:/tags/PageTemplate
+list-before:
+
+<div
+    class="tc-muuri-drag-container"
+    style.position="fixed"
+    style.inset="0"
+    style.z-index="999999"
+    style.pointer-events="none"
+    style.overflow="hidden"    
+/>

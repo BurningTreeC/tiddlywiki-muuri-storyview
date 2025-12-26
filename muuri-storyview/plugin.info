@@ -1,0 +1,11 @@
+{
+	"title": "$:/plugins/BTC/muuri-storyview",
+	"name": "Muuri StoryView",
+	"description": "A gridded drag and drop enabled muuri storyview",
+	"author": "Simon Huber",
+	"version": "0.0.1",
+	"core-version": ">=5.3.0",
+	"source": "https://github.com/BurningTreeC/tiddlywiki-muuri-storyview",
+	"plugin-type": "plugin",
+	"list": "readme license"
+}
